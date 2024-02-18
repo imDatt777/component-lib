@@ -1,11 +1,12 @@
-import Countdown from "./components/countdown/countdown";
+import Users from "./components/users";
 
 function App() {
     return (
         <div className='App'>
             {/* <Counter /> */}
             {/* <Caraousel /> */}
-            <Countdown />
+            {/* <Countdown /> */}
+            <Users />
         </div>
     );
 }
